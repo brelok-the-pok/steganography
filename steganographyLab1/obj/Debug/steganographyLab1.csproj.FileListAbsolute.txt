@@ -1,0 +1,197 @@
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe.config
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.pdb
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csprojAssemblyReference.cache
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form1.resources
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Properties.Resources.resources
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.GenerateResource.cache
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.CoreCompileInputs.cache
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.exe
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.pdb
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x64\concrt140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x64\cvextern.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x64\msvcp140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x64\vcruntime140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x86\concrt140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x86\cvextern.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x86\msvcp140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\x86\vcruntime140.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.xml
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.xml
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.xml
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\de\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\es\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\fr\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\hu\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\it\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\ja\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\pt\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\ru\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\sk\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\sv\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\tr\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form2.resources
+E:\Seti\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.CopyComplete
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\concrt140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\cvextern.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\msvcp140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\vcruntime140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\concrt140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\cvextern.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\msvcp140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\vcruntime140.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe.config
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.pdb
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.xml
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.xml
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.xml
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csprojAssemblyReference.cache
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form1.resources
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form2.resources
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Properties.Resources.resources
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.GenerateResource.cache
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.CopyComplete
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.exe
+D:\Study\3 курс\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.pdb
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\concrt140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\cvextern.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\msvcp140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x64\vcruntime140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\concrt140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\cvextern.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\msvcp140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\x86\vcruntime140.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe.config
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.pdb
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csprojAssemblyReference.cache
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Properties.Resources.resources
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.GenerateResource.cache
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.CopyComplete
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.exe
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.pdb
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.dll.config
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.Core.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.Core.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Imaging.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Statistics.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Imaging.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Statistics.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form3.resources
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.MachineLearning.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Video.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Vision.dll
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.MachineLearning.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Video.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\bin\Debug\Accord.Vision.xml
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.MainForm.resources
+D:\Study\3kurs\Сети и телекоммуникации\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.ResultImageForm.resources
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x64\concrt140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x64\cvextern.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x64\msvcp140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x64\vcruntime140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x86\concrt140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x86\cvextern.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x86\msvcp140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\x86\vcruntime140.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.dll.config
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe.config
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.exe
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\steganographyLab1.pdb
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Imaging.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.MachineLearning.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.Core.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Statistics.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Video.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Vision.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Imaging.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.MachineLearning.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Math.Core.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Statistics.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Video.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Accord.Vision.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.UI.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\Emgu.CV.World.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\ZedGraph.xml
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csprojAssemblyReference.cache
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.MainForm.resources
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.ResultImageForm.resources
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Form3.resources
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.Properties.Resources.resources
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.GenerateResource.cache
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.csproj.CopyComplete
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.exe
+D:\Study\3kurs\steganographyLab1\steganographyLab1\obj\Debug\steganographyLab1.pdb
